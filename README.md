@@ -5,7 +5,7 @@ Topic: 우주 산업의 민간화와 인공위성의 증가로 우주 보안의 
 ## Main File Description
 
 ### 위성 비행 소프트웨어 관련
-- `generic_reaction_wheel_app.c` : 반작용휠(Reaction Wheel)의 기능과 관련된 fsw(flight software) 파일. 해당 파일에 가상의 supply-chain 공격을 통한 악성코드를 삽입함. (아래 캡쳐 참고)
+- `generic_reaction_wheel_app.c` : 반작용휠(Reaction Wheel)의 기능과 관련된 fsw(flight software) 파일. 해당 파일에 위성의 fsw를 무한히 종료시키는 악성코드를 삽입함. (아래 캡쳐 참고)
 
 ![스크린샷 2024-11-29 153405](https://github.com/user-attachments/assets/b00a8ef4-03a9-4a75-829e-6103735be66f)
 
