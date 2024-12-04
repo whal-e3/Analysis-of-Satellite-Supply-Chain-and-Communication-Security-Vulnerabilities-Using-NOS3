@@ -20,3 +20,14 @@ Topic: 우주 산업의 민간화와 인공위성의 증가로 우주 보안의 
 
 ### 비인가 신호 송신 스크립트
 - `malicious_ccsds.py` : COSMOS 지상국을 사용하지 않고 비인가 신호를 송신하기 위해 작성한 파이썬 스크립트. 성공적으로 신호를 송신하기 위해서는 가동 중의 fsw 컨테이너의 IP 주소와 Port를 알아야 함. 
+
+---
+
+## 시나리오 구현 영상 링크
+- 정상 시나리오 : https://www.youtube.com/watch?v=26zJ99h-NhE
+- 공격 시나리오 : https://www.youtube.com/watch?v=nHiDZ2vwCBI&t=4s
+
+## Reference
+
+- NOS3 GitHub page : https://github.com/nasa/nos3
+- cFS GitHub page : https://github.com/nasa/cFS
